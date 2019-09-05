@@ -26,7 +26,8 @@ class Footer extends PureComponent {
                   elem="Link"
                   to="/page/privacy-policy-cookie-restriction-mode"
                 >
-                    { __('Privacy policy') }
+                    Test
+                    { __('Privacy policy # Ebizon') }
                 </Link>
                 <Link
                   block="Footer"
